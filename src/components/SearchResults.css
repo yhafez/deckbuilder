@@ -1,0 +1,7 @@
+/* src/components/SearchResults.css */
+
+.CardList {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+    grid-gap: 12px;
+  }
